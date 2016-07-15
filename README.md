@@ -1,4 +1,4 @@
-#h1 TREK-TRAK-TROE
+# TREK-TRAK-TROE
 
 This is a basic game of tic tac toe inspired by Star Trek. To make this game, I used:
 
@@ -9,7 +9,7 @@ This is a basic game of tic tac toe inspired by Star Trek. To make this game, I 
 *Javascript/jQuery
 
 
-#h2 How to play
+## How to play
 
 *Select a character using the mousepad
 
