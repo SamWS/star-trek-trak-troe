@@ -49,7 +49,7 @@ body {
 }
 
 .captains:hover {
-  transform: rotate(15deg);
+  transform: rotate(10deg);
   border: 4px solid white;
 }
 
