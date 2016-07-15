@@ -101,7 +101,8 @@ article {
 }
 
 .grid img:hover {
-  opacity: .5;
+  opacity: 0.9;
+  transform: rotate(15deg);
 }
 
 .grid img {
